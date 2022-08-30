@@ -11,3 +11,4 @@ C:\Users\marcin.skrzyniarz\OneDrive - Rossmann SDP\Pulpit\Szkolenie\aaa_Repo\aaa
 C:\Users\marcin.skrzyniarz\OneDrive - Rossmann SDP\Pulpit\Szkolenie\aaa_Repo\aaa\aaa\aaa\obj\Debug\netcoreapp3.1\aaa.dll
 C:\Users\marcin.skrzyniarz\OneDrive - Rossmann SDP\Pulpit\Szkolenie\aaa_Repo\aaa\aaa\aaa\obj\Debug\netcoreapp3.1\aaa.pdb
 C:\Users\marcin.skrzyniarz\OneDrive - Rossmann SDP\Pulpit\Szkolenie\aaa_Repo\aaa\aaa\aaa\obj\Debug\netcoreapp3.1\aaa.genruntimeconfig.cache
+C:\Users\marcin.skrzyniarz\OneDrive - Rossmann SDP\Pulpit\Szkolenie\aaa_Repo\aaa\aaa\aaa\obj\Debug\netcoreapp3.1\aaa.csproj.AssemblyReference.cache
